@@ -43,16 +43,16 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
                     <li><a href="{{'/' }}">Home</a></li>
-                    <li><a href="/events">Events</a></li>
-                    <li><a href="/create/jobs">Post Jobs</a></li>
-                    <li><a href="/jobs">View Jobs</a></li>
+                    <li><a href="{{URL::to('/events')}}">Events</a></li>
+                    <li><a href="{{URL::to('/create/jobs')}}">Post Jobs</a></li>
+                    <li><a href="{{URL::to('/jobs')}}">View Jobs</a></li>
                 </ul>
                 <ul class="nav navbar-nav navbar-right">
                     @if(Auth::guest())
-                    <li><a href="login">Login</a></li>
-                    <li><a href="/register">Register</a></li>
+                    <li><a href="{{URL::to('/login')}}">Login</a></li>
+                    <li><a href="{{URL::to('/register')}}">Register</a></li>
                     @else
-                     <li><a href="logout">Logout</a></li>
+                     <li><a href="{{URL::to('/logout')}}">Logout</a></li>
                     @endif
                 </ul>
             </div><!-- /.navbar-collapse -->
