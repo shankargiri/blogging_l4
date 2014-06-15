@@ -59,19 +59,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".env.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name=".env.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.env.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="68" selection-start="114" selection-end="114" vertical-scroll-proportion="0.10359116" vertical-offset="0" max-vertical-offset="724">
+            <state line="4" column="32" selection-start="149" selection-end="149" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="325">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".env.development.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name=".env.development.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.env.development.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="2" selection-start="133" selection-end="133" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
+            <state line="6" column="2" selection-start="133" selection-end="133" vertical-scroll-proportion="0.20718232" vertical-offset="0" max-vertical-offset="724">
               <folding />
             </state>
           </provider>
@@ -858,16 +858,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.env.development.php">
+    <entry file="file://$PROJECT_DIR$/.env.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="2" selection-start="133" selection-end="133" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
+        <state line="4" column="32" selection-start="149" selection-end="149" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="325">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.env.php">
+    <entry file="file://$PROJECT_DIR$/.env.development.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="68" selection-start="114" selection-end="114" vertical-scroll-proportion="0.10359116" vertical-offset="0" max-vertical-offset="724">
+        <state line="6" column="2" selection-start="133" selection-end="133" vertical-scroll-proportion="0.20718232" vertical-offset="0" max-vertical-offset="724">
           <folding />
         </state>
       </provider>
