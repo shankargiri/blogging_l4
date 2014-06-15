@@ -32,19 +32,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="database.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="database.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/config/database.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="56" column="40" selection-start="1743" selection-end="1743" vertical-scroll-proportion="0.0" vertical-offset="1175" max-vertical-offset="3250">
+            <state line="56" column="42" selection-start="1745" selection-end="1745" vertical-scroll-proportion="0.20718232" vertical-offset="1250" max-vertical-offset="3250">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="start.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="start.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bootstrap/start.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="2" selection-start="862" selection-end="862" vertical-scroll-proportion="0.34530386" vertical-offset="125" max-vertical-offset="1700">
+            <state line="24" column="2" selection-start="862" selection-end="862" vertical-scroll-proportion="0.0" vertical-offset="175" max-vertical-offset="1700">
               <folding />
             </state>
           </provider>
@@ -62,7 +62,7 @@
       <file leaf-file-name=".env.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.env.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="26" selection-start="41" selection-end="41" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
+            <state line="3" column="32" selection-start="78" selection-end="78" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
               <folding />
             </state>
           </provider>
@@ -934,16 +934,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/config/database.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="40" selection-start="1743" selection-end="1743" vertical-scroll-proportion="0.0" vertical-offset="1175" max-vertical-offset="3250">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.env.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="26" selection-start="41" selection-end="41" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
+        <state line="3" column="32" selection-start="78" selection-end="78" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
           <folding />
         </state>
       </provider>
@@ -957,7 +950,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bootstrap/start.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="2" selection-start="862" selection-end="862" vertical-scroll-proportion="0.34530386" vertical-offset="125" max-vertical-offset="1700">
+        <state line="24" column="2" selection-start="862" selection-end="862" vertical-scroll-proportion="0.0" vertical-offset="125" max-vertical-offset="1700">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="42" selection-start="1745" selection-end="1745" vertical-scroll-proportion="0.20718232" vertical-offset="1250" max-vertical-offset="3250">
           <folding />
         </state>
       </provider>
