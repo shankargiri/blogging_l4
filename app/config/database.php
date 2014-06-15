@@ -55,8 +55,8 @@ return array(
 		'mysql' => array(
 			'driver'    => 'mysql',
 			'host'      => getenv('ENV'),
-			'database'  => getenv('DB_PASSWORD'),
-			'username'  => getenv('DB_PASSWORD'),
+			'database'  => getenv('DB_DATABASE'),
+			'username'  => getenv('DB_USERNAME'),
 			'password'  => getenv('DB_PASSWORD'),
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_ci',
