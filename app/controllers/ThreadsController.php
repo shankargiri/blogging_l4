@@ -14,6 +14,7 @@ class ThreadsController extends \BaseController {
 
 	public function index()
 	{
+        return App::env();
       $query = Request::get('q');
 
         if($query)

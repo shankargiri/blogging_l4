@@ -23,10 +23,13 @@ $app = new Illuminate\Foundation\Application;
 | given environment, then we will automatically detect it for you.
 |
 */
-$env = $app->detectEnvironment(function(){
-    return getEnv('APP_ENV') ? : 'development';
-});
+//$env = $app->detectEnvironment(function(){
+//    return getenv('APP_ENV') ? : 'development';
+//});
+$env = $app->detectEnvironment(array(
 
+    'development' => array('bashanta-17595477.local', 'Score-Xings-MacBook-Pro.local','dirghayu-Inspiron-N5010', 'ubuntu', 'bashant17595477', 'dhcp-149-144-242-194.wireless.latrobe.edu.au')
+));
 
 /*
 |--------------------------------------------------------------------------
