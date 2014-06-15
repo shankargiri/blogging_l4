@@ -24,9 +24,10 @@ $app = new Illuminate\Foundation\Application;
 |
 */
 
-$env = $app->detectEnvironment(function(){
-    return getEnv('ENV') ? : 'development';
-});
+$env = $app->detectEnvironment(array(
+
+    'development' => array('Score-Xings-MacBook-Pro.local')
+));
 
 
 /*
