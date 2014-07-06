@@ -34,6 +34,7 @@ Route::resource('register', 'UsersController', ['only' => ['create', 'store']]);
 Route::get('login', ['as' => 'login', 'uses' => 'SessionsController@create']);
 Route::get('logout', ['as' => 'logout', 'uses' => 'SessionsController@destroy']);
 Route::post('session.store', ['as' => 'session.store', 'uses' => 'SessionsController@store']);
+
 //
 
 
