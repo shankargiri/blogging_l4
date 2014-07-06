@@ -36,7 +36,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="{{'/' }}">Blogging</a>
+                <a class="navbar-brand" href="{{'/' }}">Micro Blogging</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
