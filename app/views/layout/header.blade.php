@@ -46,6 +46,8 @@
                     <li><a href="{{URL::to('events')}}">Events</a></li>
                     <li><a href="{{URL::to('create/jobs')}}">Post Jobs</a></li>
                     <li><a href="{{URL::to('jobs')}}">View Jobs</a></li>
+                    <li><a href="{{URL::to('create/jobs')}}">Post Jobs</a></li>
+                    <li><a href="{{URL::to('jobs')}}">View Jobs</a></li>
                 </ul>
                 <ul class="nav navbar-nav navbar-right">
                     @if(Auth::guest())
